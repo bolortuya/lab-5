@@ -6,7 +6,7 @@ h1 {
   font-family: oblique;
 }
 html{
-  background-image: url(galaxy.jpg);
+  background-image: url(pictures/galaxy.jpg);
   background-size: 100% auto;
 }
 .column{
