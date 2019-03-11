@@ -1,6 +1,6 @@
 
 h1 {
-  color: yellow;
+  color: white;
   text-align: center;
   font-size: 40px;
   font-family: oblique;
@@ -13,4 +13,20 @@ html{
   float: right;
   width: 24%;
   padding: 5px;
+}
+table, th, td{
+  border: 3px solid purple;
+  position: relative;
+  color: white;
+  font-size: 18px;
+  background-color:black;
+  border-collapse: collapse;
+  height: 30px;
+  width: 40px;
+}
+caption{
+  font-size: 18px;
+  color: white;
+  text-align: center
+
 }
