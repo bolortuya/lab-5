@@ -6,7 +6,7 @@ h1 {
   font-family: oblique;
 }
 html{
-  background-image: url('./Users/khashkhuuotgontulga/Desktop/lab-5/pictures/galaxy.jpg' no-repeat) no-repeat;
+  background-image: url('../lab-5/pictures/galaxy.jpg' no-repeat) no-repeat;
   background-size: 100% auto;
 }
 .column{
