@@ -5,7 +5,7 @@ h1 {
   font-size: 40px;
   font-family: oblique;
 }
-html{
+body{
   background-image: url("pictures/galaxy.jpg");
   background-size: cover;
 }
